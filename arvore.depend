@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1450645947 source:c:\users\administrador\desktop\arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1450645926 source:c:\users\administrador\desktop\arvore\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1450645342 c:\users\administrador\desktop\arvore\arvore.h
+
+1451909111 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_5_arvore\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1453581673 c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_5_arvore\arvore.h
+
+1453581641 source:c:\users\administrador\desktop\pen_drive\codigos_pratica\pratica_5_arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1453578785 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_5_arvore\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1453578073 c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_5_arvore\arvore.h
+
+1453578785 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_5_arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
